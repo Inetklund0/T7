@@ -57,3 +57,8 @@ a:hover{
     border-radius: 5%;
     background:  linear-gradient(13deg, rgba(255,194,120,1) 28%, rgba(255,181,105,1) 61%);
 }
+
+span {
+    border-left: none;
+    color: chartreuse;
+}
