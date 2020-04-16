@@ -1,0 +1,1 @@
+document.write('<img src="./img/unnamed.png">')
