@@ -59,6 +59,7 @@ a:hover{
 }
 
 span {
-    border-left: none;
-    color: chartreuse;
+    border: none;
+    color: rgb(45, 13, 224);
 }
+
